@@ -1,10 +1,6 @@
 Simple calculator
 Implement a simple calulator which just calls function which does simple calculations and console logs the result.
 
-What are you going to learn?
-How to use functions
-Get to known to functions with return values
-Get to known to functions with parameters
 Tasks
 Create a "+" function
 Create a function addition which takes two parameters (numbers) and returns the sum of both
